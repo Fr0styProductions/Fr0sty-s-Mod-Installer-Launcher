@@ -23,7 +23,16 @@
       "download": "https://github.com/Logo-2K/zombies-declassified/releases/latest/download/ZombiesDeclassified-Updater.exe",
       "size": 67593364,
       "image": "",
-      "screenshots": [],
+      "screenshots": [
+        "https://github.com/Fr0styProductions/Fr0sty-s-Mod-Installer-Launcher/releases/download/ZDBT2/zd_1.jpg",
+        "https://github.com/Fr0styProductions/Fr0sty-s-Mod-Installer-Launcher/releases/download/ZDBT2/zd_6.jpg",
+        "https://github.com/Fr0styProductions/Fr0sty-s-Mod-Installer-Launcher/releases/download/ZDBT2/zd_7.jpg",
+        "https://github.com/Fr0styProductions/Fr0sty-s-Mod-Installer-Launcher/releases/download/ZDBT2/zd_2.jpg",
+        "https://github.com/Fr0styProductions/Fr0sty-s-Mod-Installer-Launcher/releases/download/ZDBT2/zd_3.jpg",
+        "https://github.com/Fr0styProductions/Fr0sty-s-Mod-Installer-Launcher/releases/download/ZDBT2/zd_4.jpg",
+        "https://github.com/Fr0styProductions/Fr0sty-s-Mod-Installer-Launcher/releases/download/ZDBT2/zd_5.jpg",
+        "https://github.com/Fr0styProductions/Fr0sty-s-Mod-Installer-Launcher/releases/download/ZDBT2/zd_8.jpg"
+      ],
       "featured": true
     },
     {
@@ -181,7 +190,20 @@
       "download": "https://github.com/Fr0styProductions/Fr0sty-s-Mod-Installer-Launcher/releases/download/BT2Pv2.0.6/Fr0sty.s.BT2P.Update.2.0.6.zip",
       "size": 342615165,
       "image": "",
-      "screenshots": [],
+      "screenshots": [
+        "https://github.com/Fr0styProductions/Fr0sty-s-Mod-Installer-Launcher/releases/download/BT2Pv2.0.6/bt2p_1.jpg",
+        "https://github.com/Fr0styProductions/Fr0sty-s-Mod-Installer-Launcher/releases/download/BT2Pv2.0.6/bt2p_7.jpg",
+        "https://github.com/Fr0styProductions/Fr0sty-s-Mod-Installer-Launcher/releases/download/BT2Pv2.0.6/bt2p_12.jpg",
+        "https://github.com/Fr0styProductions/Fr0sty-s-Mod-Installer-Launcher/releases/download/BT2Pv2.0.6/bt2p_2.jpg",
+        "https://github.com/Fr0styProductions/Fr0sty-s-Mod-Installer-Launcher/releases/download/BT2Pv2.0.6/bt2p_3.jpg",
+        "https://github.com/Fr0styProductions/Fr0sty-s-Mod-Installer-Launcher/releases/download/BT2Pv2.0.6/bt2p_4.jpg",
+        "https://github.com/Fr0styProductions/Fr0sty-s-Mod-Installer-Launcher/releases/download/BT2Pv2.0.6/bt2p_5.jpg",
+        "https://github.com/Fr0styProductions/Fr0sty-s-Mod-Installer-Launcher/releases/download/BT2Pv2.0.6/bt2p_6.jpg",
+        "https://github.com/Fr0styProductions/Fr0sty-s-Mod-Installer-Launcher/releases/download/BT2Pv2.0.6/bt2p_8.jpg",
+        "https://github.com/Fr0styProductions/Fr0sty-s-Mod-Installer-Launcher/releases/download/BT2Pv2.0.6/bt2p_9.jpg",
+        "https://github.com/Fr0styProductions/Fr0sty-s-Mod-Installer-Launcher/releases/download/BT2Pv2.0.6/bt2p_10.jpg",
+        "https://github.com/Fr0styProductions/Fr0sty-s-Mod-Installer-Launcher/releases/download/BT2Pv2.0.6/bt2p_11.jpg"
+      ],
       "featured": true,
       "requires_zd": true
     },
