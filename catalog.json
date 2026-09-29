@@ -17,8 +17,8 @@
         "Moon: BO1 gate and alarm sounds, round-change music every round",
         "Shangri-La: screamer / napalm fixes, baby gun works on special zombies again",
         "Gersh Device, Wunderwaffe box odds, Death Machine sounds and icons like BO1",
-        "Enchanced Perk Icons",
-        "Enchanced Weapon Textures"
+        "Enhanced Perk Icons",
+        "Enhanced Weapon Textures"
       ],
       "changelog": [
         "Shangri-La: fixed the screamer crash (blank textures in 2.0.5's mod.ff - also fixes the comic-book effect textures)",
@@ -27,6 +27,130 @@
         "Shangri-La: the screamer spawn effect and sound play once (they played twice)",
         "Moon: you get your own character's arms back when you lose the P.E.S.",
         "Fixed a crash when leaving a match"
+      ],
+      "history": [
+        {
+          "version": "2.0.5",
+          "added": [
+            "Full Voiceline implementation from bo1.",
+            "Triggers for voicelines should now work.",
+            "Start lines are fully implemented.",
+            "About 100 missing bo1 voicelines added."
+          ],
+          "fixed": [
+            "Screamer Crashing Game Fixed.",
+            "Gersh Device: the black hole only opens where zombies can walk, so no more black holes up in tunnel ceilings.",
+            "Moon Round Change Theme Fixed.",
+            "Voicelines arent mixed up anymore.",
+            "Moon Earth is back to DLC 5's Earth",
+            "Pentagon Thief has 3x health.",
+            "red Insta Kill Icon Fixed.",
+            "Moon box hack line implemented.",
+            "Moon Starting Buzzer/alarm is now bo1s version.",
+            "Nova Crawlers use there own bo1 attack screams."
+          ]
+        },
+        {
+          "version": "2.0.4",
+          "added": [
+            "Earth Is now there and after firing rockets at the earth it will change to EE Earth.",
+            "Voicelines for every DLC 5 Map!",
+            "Wunderwaffle box chances behave like bo1: Rounds 1-5 | 2.5%, After Rounds 5 | 15-16%, After Rounds 10 | 20%, After a player swaps it out for another box gun | +20% for the rest of the game.",
+            "Winters Howl Walking Looks Better (The lowering when u walk or crouch).",
+            "Starting Delay on DLC 5 Maps.",
+            "Death Animation on DLC 5 Maps.",
+            "New Earth images on moon.",
+            "Perma Perks are on by default (toggable in custom games lobby)",
+            "Rare Voicelines now Implemented"
+          ],
+          "fixed": [
+            "Gersh Now Looks like bo1's (vision) version.",
+            "Gersh Is Fixed.",
+            "PAP Camos Broken (my fault).",
+            "Phd in NML now faces the right way.",
+            "Missing Voice lines are now there!",
+            "Annoucer for Death Machine, Bonfire Sale, Dogs Round!",
+            "Melee Knife sound is back.",
+            "Turned is Now Knifing sounds instead of the zombie swing sound (Unfixable without have source).",
+            "Moon Buzzer/Alarm is now the normal moon buzzer/alarm instead of the der riese buzzer/alarm.",
+            "Jug/Speed Cola is Now Always Powered On.",
+            "Red Insta Kill icon not showing with perma perks fixed.",
+            "Known Bug is Area 51 has sped up viewhands death anim.",
+            "BabyGun is fixed.",
+            "Screamer is fixed.",
+            "Naplam now doesnt spawn as the same time as screamer."
+          ]
+        },
+        {
+          "version": "2.0.3",
+          "title": "Small Update 2.0.3",
+          "added": [
+            "Ascension Any Player EE.",
+            "Shang Any Player EE."
+          ],
+          "fixed": [
+            "Proper Nalpalm/Fixed Nalpalm.",
+            "Water Slide Fixed.",
+            "S12/Synthetic Dozen Reflex Sight Pap Animation Fixed.",
+            "Fixed Jug Powering Off in NML.",
+            "Fixed Five Map Selection On Exit Crashing Game.",
+            "Accurate Map Selection Positions for Mouse on Moon."
+          ]
+        },
+        {
+          "version": "2.0.2",
+          "added": [
+            "No Man's Land on Moon.",
+            "Wallbuys on NML.",
+            "Box on NML.",
+            "Perks on NML.",
+            "PAP on NML.",
+            "Teleporter Disabled on NML.",
+            "Inf Zombies on NML.",
+            "Dogs will Sometimes spawn during different times on NML.",
+            "New/Fixed Map Art For Moon.",
+            "More Map Selections For Moon and Kino.",
+            "Kino Has Entirely new Map Art.",
+            "Kino Now Features Grief And Turned, You can select it on the kino screen.",
+            "Kino Grief Has New Teams.",
+            "Kino Turned Now Has Rictofen Lines.",
+            "Kino Grief Now Has New Revive Icons!",
+            "NML always has Jug Now.",
+            "All Perma Perks that are doable are working.",
+            "Perma Perks Are now a Option On DLC5 Maps.",
+            "Perma Perks Now Dont Require Your Account Reaching Above Or Exactly Round 10.",
+            "Fixed Map Art For Ascension.",
+            "Fixed Map Art For Shangri-La.",
+            "New Map Art for Five/Pentagon.",
+            "NML Survival Time When Dying and in The Bottom Left When In-Game."
+          ],
+          "fixed": [
+            "Ray Gun and Ray Gun Mark 2 are now unobtainable When you have Either One. (Basically you cant get both anymore at the same time)",
+            "Fixed Verruckt Power Zone And Monkey Bombs, Thanks To @1yaakov on Discord.",
+            "Spikemore Fixed.",
+            "Nukes Now Affect Dogs.",
+            "Moon Gravity Fixed.",
+            "You Now Cant Die with 0 Gravity on Moon.",
+            "Moon EE is now Solo/Any Player.",
+            "Moon Astronauts behave normally.",
+            "Moon Round Changes issues Fixed.",
+            "Ray Gun Mark 2 Sounds Now Fully Work."
+          ]
+        },
+        {
+          "version": "1.0.1",
+          "fixed": [
+            "Fixed Pap Camos for guns that are in this list: Ballista, M27, DSR-50, Uzi, M1927/Tommy Gun/Thompson, HAMR, MP40",
+            "Fixed Animations (PAPed) For these guns: Ballista, DSR-50, M27, HAMR (broken after 2nd pap), MP40 (Fixed textures)",
+            "Fixed HUD Issues (where hud wouldnt show up)"
+          ]
+        },
+        {
+          "version": "1.0.0",
+          "fixed": [
+            "Fixed HUD (Revive Icons included) this may fix other ui/hud issues."
+          ]
+        }
       ],
       "download": "https://github.com/Fr0styProductions/Fr0sty-s-Mod-Installer-Launcher/releases/download/BT2Pv2.0.6/Fr0sty.s.BT2P.Update.2.0.6.zip",
       "page": "https://github.com/Fr0styProductions/Fr0sty-s-Mod-Installer-Launcher/releases/tag/BT2Pv2.0.6",
