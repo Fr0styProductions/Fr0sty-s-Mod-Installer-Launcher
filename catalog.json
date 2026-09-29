@@ -1,5 +1,31 @@
 {
+  "launcher": {
+    "version": "2.3.0",
+    "download": "https://github.com/Fr0styProductions/Fr0sty-s-Mod-Installer-Launcher/releases/download/Launcherv2.3.0/Fr0sty.s.Mod.Launcher.exe",
+    "notes": "Zombies Declassified Beta 2 and All Guns on Every BO2 Map in the mod list."
+  },
   "mods": [
+    {
+      "id": "zd",
+      "kind": "installer",
+      "detect": "zd",
+      "name": "Zombies Declassified Beta 2",
+      "type": "map",
+      "author": "Logo2K",
+      "version": "Beta 2",
+      "summary": "A work in progress PC port of Black Ops 2's unreleased DLC 5 - by Logo2K.",
+      "description": "Zombies Declassified is a work in progress PC port of Black Ops 2's unreleased DLC 5.\n\nThe maps are ported, polished, and bug fixed to provide as close to an official release experience as possible, as if Treyarch had seen them through to completion.\n\nThis is a mod compatible with Plutonium, with full singleplayer and multiplayer support.",
+      "features": [
+        "Nacht der Untoten, Verruckt, Shi No Numa, Der Riese",
+        "Kino der Toten, Five, Ascension, Shangri-La, Moon",
+        "Installed and updated with Logo2K's official installer"
+      ],
+      "download": "https://github.com/Logo-2K/zombies-declassified/releases/latest/download/ZombiesDeclassified-Updater.exe",
+      "size": 67593364,
+      "image": "",
+      "screenshots": [],
+      "featured": true
+    },
     {
       "id": "bt2p",
       "name": "Fr0sty's BT2P",
@@ -153,12 +179,26 @@
         }
       ],
       "download": "https://github.com/Fr0styProductions/Fr0sty-s-Mod-Installer-Launcher/releases/download/BT2Pv2.0.6/Fr0sty.s.BT2P.Update.2.0.6.zip",
-      "page": "https://github.com/Fr0styProductions/Fr0sty-s-Mod-Installer-Launcher/releases/tag/BT2Pv2.0.6",
-      "size": 324821492,
+      "size": 342615165,
       "image": "",
       "screenshots": [],
       "featured": true,
       "requires_zd": true
+    },
+    {
+      "id": "zm_weapons",
+      "kind": "modfolder",
+      "name": "All Guns on Every BO2 Map",
+      "type": "mod",
+      "author": "sehteria",
+      "version": "2.0.2",
+      "summary": "This allows Every Gun On any normal bo2 Map.",
+      "description": "This allows Every Gun On any normal bo2 Map. Made by sehteria. Installs as its own mod (mods\\zm_weapons) - pick it in the launcher's Mod box to play with it.",
+      "download": "https://github.com/Fr0styProductions/Fr0sty-s-Mod-Installer-Launcher/releases/download/AGOnAMPs/zm_weapons.zip",
+      "size": 42575254,
+      "image": "",
+      "screenshots": [],
+      "featured": true
     }
   ]
 }
