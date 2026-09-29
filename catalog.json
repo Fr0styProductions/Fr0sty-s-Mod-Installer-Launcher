@@ -6,10 +6,33 @@
       "type": "mod",
       "author": "Fr0sty",
       "version": "2.0.6",
+      "updated": "2026-09-29",
       "summary": "Fixes and BO1 extras for Zombies Declassified: voice lines, No Man's Land, Moon/Shangri-La fixes.",
+      "description": "An add-on for Logo2K's Zombies Declassified (the BO1 DLC5 maps on Plutonium T6). It brings the maps closer to how they played in Black Ops 1: missing sounds and character quotes, fixed special zombies, and a playable No Man's Land start on Moon, plus Grief and Turned on Kino der Toten and perma perks on every DLC5 map.",
+      "features": [
+        "Moon - No Man's Land start: endless zombies that get tougher every minute, hellhound waves, survival clock, 7 perks, Mystery Box and wall buys",
+        "Kino der Toten: Grief and Turned modes, per-team revive icons",
+        "Perma perks on DLC5 maps (on by default, switch in Custom Games)",
+        "Thousands of BO1 character lines each map was missing, only from that map's own recordings",
+        "Moon: BO1 gate and alarm sounds, round-change music every round",
+        "Shangri-La: screamer / napalm fixes, baby gun works on special zombies again",
+        "Gersh Device, Wunderwaffe box odds, Death Machine sounds and icons like BO1",
+        "Enchanced Perk Icons",
+        "Enchanced Weapon Textures"
+      ],
+      "changelog": [
+        "Shangri-La: fixed the screamer crash (blank textures in 2.0.5's mod.ff - also fixes the comic-book effect textures)",
+        "Shangri-La: shrunk napalm zombies can be stomped and kicked again",
+        "Shangri-La: napalm zombies jog instead of sprinting",
+        "Shangri-La: the screamer spawn effect and sound play once (they played twice)",
+        "Moon: you get your own character's arms back when you lose the P.E.S.",
+        "Fixed a crash when leaving a match"
+      ],
       "download": "https://github.com/Fr0styProductions/Fr0sty-s-Mod-Installer-Launcher/releases/download/BT2Pv2.0.6/Fr0sty.s.BT2P.Update.2.0.6.zip",
+      "page": "https://github.com/Fr0styProductions/Fr0sty-s-Mod-Installer-Launcher/releases/tag/BT2Pv2.0.6",
       "size": 324821492,
       "image": "",
+      "screenshots": [],
       "featured": true,
       "requires_zd": true
     }
