@@ -1,7 +1,7 @@
 {
   "launcher": {
-    "version": "2.3.0",
-    "download": "https://github.com/Fr0styProductions/Fr0sty-s-Mod-Installer-Launcher/releases/download/Launcherv2.3.0/Fr0sty.s.Mod.Launcher.exe",
+    "version": "2.3.1",
+    "download": "https://github.com/Fr0styProductions/Fr0sty-s-Mod-Installer-Launcher/releases/download/Launcherv2.3.1/Fr0sty.s.Mod.Launcher.exe",
     "notes": "Zombies Declassified Beta 2 and All Guns on Every BO2 Map in the mod list."
   },
   "mods": [
